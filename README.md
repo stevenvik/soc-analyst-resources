@@ -1,23 +1,24 @@
-# Penetration Testing Toolkit
+# SOC Analyst Resources
 
-Custom scripts and automation tools for ethical hacking and security assessments.
+Collection of tools, configurations, and playbooks for Security Operations Center (SOC) analysts.
 
-## Tools Included
-- Network discovery automation
-- Vulnerability scanning scripts  
-- Web application testing tools
-- Post-exploitation utilities
-- Reporting and documentation templates
+## Contents
+- SIEM correlation rules and searches
+- Incident response playbooks
+- Threat hunting queries
+- Security monitoring dashboards
+- Documentation templates
 
-## Usage
-These tools are designed for authorized penetration testing and security research only.
+## Experience Base
+Developed from hands-on SOC analyst experience monitoring 3,000+ endpoints with enterprise SIEM platforms including Splunk and Blackrock3 Enterprise.
 
-## Requirements
-- Kali Linux or similar penetration testing distribution
-- Python 3.8+
-- Various security tools (nmap, nessus, burpsuite, etc.)
+## Platforms Supported
+- Splunk Enterprise
+- Chronicle SOAR
+- Generic SIEM platforms
+- Custom monitoring solutions
 
 ---
-**Ethical Use Only**: These tools are for authorized security testing only. Always obtain proper authorization before testing any systems.
+**Professional Focus**: Resources for SOC analysts transitioning to penetration testing roles.
 
-**Professional Contact**: Available for penetration testing roles $85K-$120K | steven@stevenjvik.tech
+**Career Transition**: SOC Analyst → Penetration Tester | Available $85K-$120K | steven@stevenjvik.tech
